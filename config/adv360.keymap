@@ -16,7 +16,7 @@
       bindings = <&kp RET>;
     };
     #endif
-
+  };
     keymap {
         compatible = "zmk,keymap";
 
